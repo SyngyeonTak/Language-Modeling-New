@@ -78,7 +78,8 @@ The low-temperature hyperparameter keeps with the general sentence structures in
 On the other hand, the sentence structures are broken by using higher temperatures. 
 It may cancel out the influence of the predicted result (z_i) and cause a model to explore the creative structures and words that were not trained
 <br>
-These are some results at different temperatures to check the plausibility of generated texts
+These are some results at different temperatures to check the plausibility of generated texts.
+And we concluded that using 0.5 and 0.8 is more plausible than other settings in terms of the grammar structure (using 0.2 is too repetitive)
 
 ### Sample 1
 He cannot temperately transport his honours
