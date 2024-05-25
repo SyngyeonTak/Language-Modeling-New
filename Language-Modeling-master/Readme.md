@@ -52,7 +52,7 @@ $$
 
 <br>
 
-We experimented with different temperatures when generating characters and observed their impact on the generated results. In our analysis, we discuss how varying the temperature affects the plausibility and diversity of the generated text.
+We experimented with different temperatures when generating characters and observed their impact on the generated results. In our analysis, we discuss how varying the temperature affects the plausibility and diversity of the generated text. We chose the LSTM model that outperforms the vanilla RNN.
 
 <br>
 
