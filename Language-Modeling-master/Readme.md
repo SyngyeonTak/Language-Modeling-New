@@ -71,15 +71,13 @@ Sample5: "And with thy scorns drew'st rivers from his eyes"
 <br>
 
 ### Analysis
-It appears that the generated texts at temperature 0.2 are more plausible. As it corresponds to grammar structures more precisely, they are more readable.
-Yet, the meanings of the results are quite not corresponding to the original seed characters. 
 The low-temperature hyperparameter keeps with the general sentence structures in the provided corpus, which makes generated texts too repetitive
 <br>
 On the other hand, the sentence structures are broken by using higher temperatures. 
 It may cancel out the influence of the predicted result (z_i) and cause a model to explore the creative structures and words that were not trained
 <br>
 These are some results at different temperatures to check the plausibility of generated texts.
-And we concluded that using 0.5 and 0.8 is more plausible than other settings in terms of the grammar structure (using 0.2 is too repetitive)
+we concluded that using 0.5 and 0.8 is more plausible than other settings in terms of the grammar structure (using 0.2 is too repetitive)
 
 ### Sample 1
 He cannot temperately transport his honours
