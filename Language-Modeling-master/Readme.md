@@ -87,7 +87,7 @@ Original characters:  He cannot temperately transport his honours
 
 <br><br>
 
-at temperature  0.2
+### generated_text temperature  0.2
 <br><br>
 generated_text:
 <br><br>
@@ -95,9 +95,31 @@ to the people,<br>
 That I must not the common the people and the people and the people and the many tha
 <br><br>
 
-at temperature  1.5
-<br><br>
-generated_text:
+### generated_text temperature  0.5
+
+generated_text:  
+Of the world the people and struck with the feed and his healls and private the matter, when
+That w
+
+### generated_text temperature  0.8
+
+generated_text:   of so.
+
+CORIOLANUS:
+Nor sweat this one back; to the great she thrust now now, therefore your grace,
+
+### generated_text temperature  1.0
+
+generated_text:   diend many good full taknessed, my how oundage
+I moreable force, thou that do men, yours, she neck 
+
+### generated_text temperature  1.2
+  ,
+And, scarces well, yellow mayier the city from it
+moltinus, my masseet
+are hroat on all the Edward
+
+### generated_text at temperature  1.5
 <br><br>
 They we coupsuace in the spidedio't,<br>
 Est wife<br>
