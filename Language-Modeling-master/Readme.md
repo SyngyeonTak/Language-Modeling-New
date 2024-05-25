@@ -45,7 +45,6 @@ We implemented character generation functionality in `generate.py` using the tra
 ## 6. Softmax Function with Temperature Parameter (Report)
 
 The softmax function with a temperature parameter T can be written as:
-<be>
 
 $$
 y_i = \frac{e^{z_i / T}}{\sum_{j} e^{z_j / T}}
@@ -89,38 +88,30 @@ Original characters:  He cannot temperately transport his honours
 
 ### generated_text temperature  0.2
 <br><br>
-generated_text:
-<br><br>
 to the people,<br>
 That I must not the common the people and the people and the people and the many tha
-<br><br>
 
 ### generated_text temperature  0.5
-
-generated_text:  
-Of the world the people and struck with the feed and his healls and private the matter, when
+Of the world the people and struck with the feed and his healls and private the matter, when<br>
 That w
 
 ### generated_text temperature  0.8
-
-generated_text:   of so.
-
-CORIOLANUS:
-Nor sweat this one back; to the great she thrust now now, therefore your grace,
+   of so.<br>
+<br>
+CORIOLANUS:<br>
+Nor sweat this one back; to the great she thrust now now, therefore your grace,<br>
 
 ### generated_text temperature  1.0
-
-generated_text:   diend many good full taknessed, my how oundage
-I moreable force, thou that do men, yours, she neck 
+   diend many good full taknessed, my how oundage<br>
+I moreable force, thou that do men, yours, she neck <br>
 
 ### generated_text temperature  1.2
-  ,
-And, scarces well, yellow mayier the city from it
-moltinus, my masseet
-are hroat on all the Edward
+  ,<br>
+And, scarces well, yellow mayier the city from it<br>
+moltinus, my masseet<br>
+are hroat on all the Edward<br>
 
 ### generated_text at temperature  1.5
-<br><br>
 They we coupsuace in the spidedio't,<br>
 Est wife<br>
 A spary; and I muse nay; we'lcker lip night,<br>
