@@ -86,7 +86,7 @@ we concluded that using 0.5 and 0.8 is more plausible than other settings in ter
 He cannot temperately transport his honours  
 
 **generated_text:**  
-to the people,<br>
+to the people,
 That I must not the common the people and the people and the people and the many tha
 
 ---
@@ -99,7 +99,7 @@ Were he to stand for consul, never would he
 did stop the people  
 That I have not this in the common mercy the people and the people.  
 
-**CORIOLANUS**
+CORIOLANUS
 
 ---
 
@@ -113,7 +113,7 @@ We have power in ourselves to do it,
 and the way,  
 And the people and the common me to the wars and did not a grace with him.  
 
-**CORIOLANUS**
+CORIOLANUS
 
 ---
 
@@ -140,7 +140,7 @@ Which we have not the common me to the people and the princely s
 He cannot temperately transport his honours  
 
 **generated_text:**  
-Of the world the people and struck with the feed and his healls and private the matter, when<br>
+Of the world the people and struck with the feed and his healls and private the matter, when
 That w
 
 ---
@@ -170,7 +170,7 @@ He haspitions the world they devil the market-p
 **original characters:**  
 Good night, good night! parting is such sweet sorrow,  
 
-**generated_text:**  
+generated_text:
 and he's men to the duke age her he wounds should streck the state of my saint with ease  
 and the ma
 
@@ -183,7 +183,7 @@ And with thy scorns drew'st rivers from his eyes
 **generated_text:**  
 , which, by still thee, and the market-place.  
 
-**MENENIUS:**  
+MENENIUS:
 No, being strong of the city the body had I
 
 ## generated_text temperature  0.8
@@ -192,10 +192,10 @@ No, being strong of the city the body had I
 He cannot temperately transport his honours  
 
 **generated_text:**  
-   of so.<br>
-<br>
-CORIOLANUS:<br>
-Nor sweat this one back; to the great she thrust now now, therefore your grace,<br>
+   of so.
+
+CORIOLANUS:
+Nor sweat this one back; to the great she thrust now now, therefore your grace,
 
 ---
 
@@ -206,7 +206,7 @@ Were he to stand for consul, never would he
 **generated_text:**  
 will accemset me and the did agre; the weary! but we will not your days, and disposition.  
 
-**GLOUCEST**
+GLOUCEST
 
 ---
 
@@ -240,7 +240,7 @@ And with thy scorns drew'st rivers from his eyes
 To-day a man to arm, come along but the wife,  
 To the supple him a cerricled many a kingham?  
 
-**Secon**
+Secon
 
 ## generated_text temperature  1.0
 ### Sample 1
@@ -248,8 +248,8 @@ To the supple him a cerricled many a kingham?
 He cannot temperately transport his honours  
 
 **generated_text:**  
-   diend many good full taknessed, my how oundage<br>
-I moreable force, thou that do men, yours, she neck <br>
+   diend many good full taknessed, my how oundage
+I moreable force, thou that do men, yours, she neck 
 
 ---
 
@@ -271,10 +271,10 @@ We have power in ourselves to do it,
 **generated_text:**  
 that I be lengmens, in alive uncles.  
 
-**MENENIUS:**  
+MENENIUS:
 On them a knidest it.  
 
-**GLOUCESTER:**  
+GLOUCESTER:
 Then: and yet fa
 
 ---
@@ -288,10 +288,10 @@ struck before eye
 To puny you, sir!  
 Rast hanged I have me.  
 
-**CORIOLANUS:**  
+CORIOLANUS:
 You are men with a limb.  
 
-**L**
+L
 
 ---
 
@@ -303,7 +303,7 @@ And with thy scorns drew'st rivers from his eyes
 , whom  
 Like he senatons, who are puty.  
 
-**VOLUMNIA:**  
+VOLUMNIA: 
 Spous that thence to a friends, it a mainant them
 
 ## generated_text temperature  1.2
@@ -312,10 +312,10 @@ Spous that thence to a friends, it a mainant them
 He cannot temperately transport his honours  
 
 **generated_text:**  
-  ,<br>
-And, scarces well, yellow mayier the city from it<br>
-moltinus, my masseet<br>
-are hroat on all the Edward<br>
+  ,
+And, scarces well, yellow mayier the city from it
+moltinus, my masseet
+are hroat on all the Edward
 
 ---
 
@@ -337,7 +337,7 @@ We have power in ourselves to do it,
 **generated_text:**  
 I malked to my diseaint thy, myself you. En Tife of 'en and stip knoward his pass.  
 
-**CORIOLANUS:**  
+CORIOLANUS:
 Rai
 
 ---
@@ -349,7 +349,7 @@ Good night, good night! parting is such sweet sorrow,
 **generated_text:**  
 little our veins to life done, let us the ictore.  
 
-**GLOUCESTER:**  
+GLOUCESTER:
 By did his spent, you shall flidius,
 
 ---
@@ -369,9 +369,9 @@ Bithon us i' the pack'd me; and again fault,
 He cannot temperately transport his honours  
 
 **generated_text:**  
-They we coupsuace in the spidedio't,<br>
-Est wife<br>
-A spary; and I muse nay; we'lcker lip night,<br>
+They we coupsuace in the spidedio't,
+Est wife
+A spary; and I muse nay; we'lcker lip night,
 Whose na
 
 ---
