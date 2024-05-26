@@ -56,7 +56,7 @@ We experimented with different temperatures when generating characters and obser
 
 <br>
 
-The samples are the Shakespeare lines that we experimented for kindly see the results of each sample with different temperatures 0.2, 0.5, 0.8, 1.0, 1.2
+The samples are the Shakespeare lines that we experimented for kindly see the results of each sample with different temperatures 0.2, 0.5, 0.8, 1.0, 1.2 and 1.5
 <br><br>
 Sample1: "He cannot temperately transport his honours",
 <br>
