@@ -70,7 +70,7 @@ Sample5: "And with thy scorns drew'st rivers from his eyes"
 
 <br>
 
-### Analysis
+## Analysis
 The low-temperature hyperparameter keeps with the general sentence structures in the provided corpus, which makes generated texts too repetitive
 <br>
 On the other hand, the sentence structures are broken by using higher temperatures. 
@@ -79,36 +79,343 @@ It may cancel out the influence of the predicted result (z_i) and cause a model 
 These are some results at different temperatures to check the plausibility of generated texts.
 we concluded that using 0.5 and 0.8 is more plausible than other settings in terms of the grammar structure (using 0.2 is too repetitive)
 
-### Sample 1
-He cannot temperately transport his honours
 
-### generated_text temperature  0.2
-<br><br>
+## generated_text temperature  0.2
+### Sample 1
+**original characters:**  
+He cannot temperately transport his honours  
+
+**generated_text:**  
 to the people,<br>
 That I must not the common the people and the people and the people and the many tha
 
-### generated_text temperature  0.5
+---
+
+### Sample 2
+**original characters:**  
+Were he to stand for consul, never would he  
+
+**generated_text:**  
+did stop the people  
+That I have not this in the common mercy the people and the people.  
+
+**CORIOLANUS**
+
+---
+
+
+
+### Sample 3
+**original characters:**  
+We have power in ourselves to do it,  
+
+**generated_text:**  
+and the way,  
+And the people and the common me to the wars and did not a grace with him.  
+
+**CORIOLANUS**
+
+---
+
+### Sample 4
+**original characters:**  
+Good night, good night! parting is such sweet sorrow,  
+
+**generated_text:**  
+should be so shall the people my heart the deed the people stribent of the deeds the many the commo
+
+---
+
+### Sample 5
+**original characters:**  
+And with thy scorns drew'st rivers from his eyes  
+
+**generated_text:**  
+,  
+Which we have not the common me to the people and the princely s
+
+## generated_text temperature  0.5
+### Sample 1
+**original characters:**  
+He cannot temperately transport his honours  
+
+**generated_text:**  
 Of the world the people and struck with the feed and his healls and private the matter, when<br>
 That w
 
-### generated_text temperature  0.8
+---
+### Sample 2
+**original characters:**  
+Were he to stand for consul, never would he  
+
+**generated_text:**  
+will shall thee a great of them.  
+
+**MENENIUS:**  
+There's love, he is men a friends, if you devil the sea
+
+---
+
+### Sample 3
+**original characters:**  
+We have power in ourselves to do it,  
+
+**generated_text:**  
+And have pardon me as the Romans the city of yours,  
+He haspitions the world they devil the market-p
+
+---
+
+### Sample 4
+**original characters:**  
+Good night, good night! parting is such sweet sorrow,  
+
+**generated_text:**  
+and he's men to the duke age her he wounds should streck the state of my saint with ease  
+and the ma
+
+---
+
+### Sample 5
+**original characters:**  
+And with thy scorns drew'st rivers from his eyes  
+
+**generated_text:**  
+, which, by still thee, and the market-place.  
+
+**MENENIUS:**  
+No, being strong of the city the body had I
+
+## generated_text temperature  0.8
+### Sample 1
+**original characters:**  
+He cannot temperately transport his honours  
+
+**generated_text:**  
    of so.<br>
 <br>
 CORIOLANUS:<br>
 Nor sweat this one back; to the great she thrust now now, therefore your grace,<br>
 
-### generated_text temperature  1.0
+---
+
+### Sample 2
+**original characters:**  
+Were he to stand for consul, never would he  
+
+**generated_text:**  
+will accemset me and the did agre; the weary! but we will not your days, and disposition.  
+
+**GLOUCEST**
+
+---
+
+### Sample 3
+**original characters:**  
+We have power in ourselves to do it,  
+
+**generated_text:**  
+my stirit,  
+We have noble your Calain I dull go the remember  
+For with this hands, the king 'Gore so,
+
+---
+
+### Sample 4
+**original characters:**  
+Good night, good night! parting is such sweet sorrow,  
+
+**generated_text:**  
+God gothing of our day, with mine arms  
+Ingrace of my commands not for my both and forget them recom
+
+---
+
+### Sample 5
+**original characters:**  
+And with thy scorns drew'st rivers from his eyes  
+
+**generated_text:**  
+,  
+To-day a man to arm, come along but the wife,  
+To the supple him a cerricled many a kingham?  
+
+**Secon**
+
+## generated_text temperature  1.0
+### Sample 1
+**original characters:**  
+He cannot temperately transport his honours  
+
+**generated_text:**  
    diend many good full taknessed, my how oundage<br>
 I moreable force, thou that do men, yours, she neck <br>
 
-### generated_text temperature  1.2
+---
+
+### Sample 2
+**original characters:**  
+Were he to stand for consul, never would he  
+
+**generated_text:**  
+;  
+The honour in his more priteen  
+For aught than deeds and my son hou before for my lord; grand's die
+
+---
+
+### Sample 3
+**original characters:**  
+We have power in ourselves to do it,  
+
+**generated_text:**  
+that I be lengmens, in alive uncles.  
+
+**MENENIUS:**  
+On them a knidest it.  
+
+**GLOUCESTER:**  
+Then: and yet fa
+
+---
+
+### Sample 4
+**original characters:**  
+Good night, good night! parting is such sweet sorrow,  
+
+**generated_text:**  
+struck before eye  
+To puny you, sir!  
+Rast hanged I have me.  
+
+**CORIOLANUS:**  
+You are men with a limb.  
+
+**L**
+
+---
+
+### Sample 5
+**original characters:**  
+And with thy scorns drew'st rivers from his eyes  
+
+**generated_text:**  
+, whom  
+Like he senatons, who are puty.  
+
+**VOLUMNIA:**  
+Spous that thence to a friends, it a mainant them
+
+## generated_text temperature  1.2
+### Sample 1
+**original characters:**  
+He cannot temperately transport his honours  
+
+**generated_text:**  
   ,<br>
 And, scarces well, yellow mayier the city from it<br>
 moltinus, my masseet<br>
 are hroat on all the Edward<br>
 
-### generated_text at temperature  1.5
+---
+
+### Sample 2
+**original characters:**  
+Were he to stand for consul, never would he  
+
+**generated_text:**  
+: amed, well view 'judgmed, not uspe his neplieding follow  
+make in theecherefore, there behel;  
+there
+
+---
+
+### Sample 3
+**original characters:**  
+We have power in ourselves to do it,  
+
+**generated_text:**  
+I malked to my diseaint thy, myself you. En Tife of 'en and stip knoward his pass.  
+
+**CORIOLANUS:**  
+Rai
+
+---
+
+### Sample 4
+**original characters:**  
+Good night, good night! parting is such sweet sorrow,  
+
+**generated_text:**  
+little our veins to life done, let us the ictore.  
+
+**GLOUCESTER:**  
+By did his spent, you shall flidius,
+
+---
+
+### Sample 5
+**original characters:**  
+And with thy scorns drew'st rivers from his eyes  
+
+**generated_text:**  
+,  
+Who die be my stervet the way-ingly enouged, go love,  
+Bithon us i' the pack'd me; and again fault,
+
+## generated_text at temperature  1.5
+### Sample 1
+**original characters:**  
+He cannot temperately transport his honours  
+
+**generated_text:**  
 They we coupsuace in the spidedio't,<br>
 Est wife<br>
 A spary; and I muse nay; we'lcker lip night,<br>
 Whose na
+
+---
+
+### Sample 2
+**original characters:**  
+Were he to stand for consul, never would he  
+
+**generated_text:**  
+, repore! Is that, my heath,  
+To-doton appeslish Deny yourself:  
+Readided in I will, fnobed off,--Prec
+
+---
+
+### Sample 3
+**original characters:**  
+We have power in ourselves to do it,  
+
+**generated_text:**  
+do by this chaon forget  
+Stiraching them as madgured  
+it were you meefure; he make, Ine. I had  
+fillse
+
+---
+
+### Sample 4
+**original characters:**  
+Good night, good night! parting is such sweet sorrow,  
+
+**generated_text:**  
+-hight! So, this,  
+efpess brive onculaterdly achely pople tre--tyrmys, from himpits corrow;  
+Yes, go,
+
+---
+
+### Sample 5
+**original characters:**  
+And with thy scorns drew'st rivers from his eyes  
+
+**generated_text:**  
+,  
+More Rome, was died whice:-what Warquigns: princest  
+As fearoof giveges-sate. Your, Lidius:  
+Come, b
